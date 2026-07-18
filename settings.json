@@ -31,22 +31,23 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a regular lesbian boy",
+        "... ahhhwww ! yay ! YAMEDEKASAI !",
+        "I like to goon on Marcoscm!",
+        "Do you wanna goon with me tonight at 13:67 on 31 th of februar"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 12000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 16000
     },
     "look-around": {
       "enabled": true,
